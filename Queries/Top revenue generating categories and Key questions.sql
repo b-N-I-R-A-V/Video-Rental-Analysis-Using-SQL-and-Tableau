@@ -21,12 +21,6 @@ FROM payment A
 GROUP BY D.rating
 ORDER BY total_revenue DESC
 
---Number of movies by languages
-SELECT  B.name, COUNT(A.film_id)
-FROM film A
-	JOIN language B ON A.language_id = B.language_id
-GROUP BY B.name
-
 --replacement cost by rating
 SELECT rating, AVG(replacement_cost)
 FROM film
