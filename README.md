@@ -17,3 +17,6 @@ These questions serve as the compass guiding our data analysis efforts, providin
 ## Data Set
 We’ll be using a data set that contains information about Rockbuster’s film inventory, customers, and payments, among other things. Here is the link to the data set.
 [Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+## Tableau Visualizations
+[Link to Storyboard](https://public.tableau.com/app/profile/nirav.bariya/viz/shared/3ZS4KMBPK)
