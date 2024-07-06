@@ -33,3 +33,5 @@ Here are a few snapshots from the analysis answering key questions defined above
 
 * Sales numbers differ significantly between countries. We found that the majority of sales occurred in India (1422) and China (1297). In contrast, American Samoa and Lithuania had the fewest sales, with 15 and 22, respectively.
 * We identified top 10 countries by customer base by aggregating data in SQL and creating a tree map in Tableau. We found that India and China had the highest customer base for Rockbuster.
+
+For a complete and comprehensive understanding of the project please read this presentation file. [Presentation File](Video-Rental-Analysis-Using-SQL-and-Tableau/Rockbuster Stealth Final Presentation.pdf)
