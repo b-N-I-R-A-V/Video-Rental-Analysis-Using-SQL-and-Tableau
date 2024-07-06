@@ -23,9 +23,10 @@ These questions serve as the compass guiding our data analysis efforts, providin
 
 ## Results
 To communicate the results of the analysis effectively I created a presentation for the board as well as I have put my visualization on Tableau Public which you can check out from this link.[Link to Storyboard](https://public.tableau.com/app/profile/nirav.bariya/viz/shared/3ZS4KMBPK)
+
 Here are a few snapshots from the analysis answering key questions defined above.
 <p align="center">
   <img width="45%" alt="Light" src="https://github.com/b-N-I-R-A-V/Video-Rental-Analysis-Using-SQL-and-Tableau/assets/153047871/ce064acc-b6f3-44bc-b256-a2ccab259ff9">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/cbf6ec0e-a30e-4fe0-b663-8f23b7f43b5b" width="45%">
+  <img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Video-Rental-Analysis-Using-SQL-and-Tableau/assets/153047871/fbf669e0-bdb1-4eec-b805-983eef4410c1">
 </p>
