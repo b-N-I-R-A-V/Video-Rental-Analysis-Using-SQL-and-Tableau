@@ -3,6 +3,12 @@ Welcome to my project on analysis for a video rental company ROCKBUSTER STEALTH 
 
 Rockbuster Stealth is gearing up to launch an online video rental service. Leveraging its extensive library of movie licenses, the company aims to stay competitive in the ever-evolving entertainment landscape. My first task is to load all of Rockbuster's invaluable data into a relational database management system (RDBMS) and utilize SQL to extract meaningful insights. This data, spanning from our film inventory to customer information and payments, holds the key to unlocking crucial business questions and guiding our strategic decisions for the year ahead.
 
+# Data Set
+We’ll be using a data set that contains information about Rockbuster’s film inventory, customers, and payments, among other things. Here is the link to the data set.
+[Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+I checked for duplicate and missing values in this dataset to begin wtih. Fortunately, the dataset didn't have any missing values or duplicates.  
+
 ## Key Questions and Objectives
 Here are the key questions outlined by the Rockbuster Stealth Management Board:
 
