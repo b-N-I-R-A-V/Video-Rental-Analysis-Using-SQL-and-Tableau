@@ -129,5 +129,6 @@ Following are the recommendations based on our findings:
 The main challenge in this project was understanding the logic behind one of the questions posed by management, which sought to find the top 5 customers from the top 10 cities within the top 10 countries by customer base. The issue was that within the top 10 countries, there were multiple cities with the same number of customers. This was leaving out customers who were producing more revenue but were not necessarily in the top 10 cities. This challenge was overcome by identifying high-value customers across the globe and creating a separate list of them.
 
 To see visualizations created for communicating important insights checkout [Link to Storyboard](https://public.tableau.com/app/profile/nirav.bariya/viz/shared/3ZS4KMBPK). 
+
 I hope you found something useful. If you have any questions or suggestions for me, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](mailto:nkb.bariya@gmail.com) me. Thank you for your time. Have a great rest of day! 
 
