@@ -25,14 +25,21 @@ We’ll be using a data set that contains information about Rockbuster’s film 
 - Created Entity Relationship Diagram
 - Created a Data Dictionary
 - Checked for missing data
-- Addressing duplicated values
-- Created summary statistics for cleaned data
+- checking for duplicate values
 
 <p align="center">
   <img width="80%" alt="Light" src="https://github.com/user-attachments/assets/b0992570-5555-44dc-b435-c59f2e3f6281">
 </p>
 
 You can download the data disctionary prepared using this [link.](https://github.com/b-nirav/Video-Rental-Analysis-Using-SQL-and-Tableau/blob/main/Data%20Dictionary.pdf)
+
+## Overview of Rockbuster stealth
+With the cleaned dataset in hand, I created a summary statistics of the data to get an overview of the business by running simple queries in the SQL.
+<p align = "center">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/ea35995b-4b4f-47da-a983-32714d01c2e9">
+</p>
+
+
 
 
 ## Key Questions and Objectives
