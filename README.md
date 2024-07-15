@@ -1,13 +1,39 @@
-# About 
-Welcome to my project on analysis for a video rental company ROCKBUSTER STEALTH LLC that aims to stay competitive in the movie rental market. In this project, I demonstrate the use of Postgre SQL to clean and analyze the data. For data visualization I have used Tableau public.
+# Video Rental Analysis 
+**Purpose and Context:** Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service to stay competitive. This project is aimed at answering questions asked by management board that they to device their company strategy.
 
-Rockbuster Stealth is gearing up to launch an online video rental service. Leveraging its extensive library of movie licenses, the company aims to stay competitive in the ever-evolving entertainment landscape. My first task is to load all of Rockbuster's invaluable data into a relational database management system (RDBMS) and utilize SQL to extract meaningful insights. This data, spanning from our film inventory to customer information and payments, holds the key to unlocking crucial business questions and guiding our strategic decisions for the year ahead.
+### Project Goals
+The primary objective of the project was fullfilled by accomplishing the following goals:
+- Identify movies that contributed the most/least to revenue gain
+- Identifying Rockbuster customer base
+- Determine High value customers
+- Analysis of global market share
+
+## Tools and Techniques
+For this analysis, I used PostGre SQL, Excel and Tableau as my main tools. The following skills and techniques were demonstrated in the project:
+- Creating Entity Relationship Diagram (ERD)
+- Database Querying
+- Cleaning and Summarizing
+- Joining Tables
+- Subqueries
+- Common Table Expressions (CTEs)
+- Data Visualization
+
 
 ## Data Set
 We’ll be using a data set that contains information about Rockbuster’s film inventory, customers, and payments, among other things. Here is the link to the data set.
-[Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+[Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) I took the following steps while preparing the data for analysis.
+- Created Entity Relationship Diagram
+- Created a Data Dictionary
+- Checked for missing data
+- Addressing duplicated values
+- Created summary statistics for cleaned data
 
-I checked for duplicate and missing values in this dataset to begin wtih. Fortunately, the dataset didn't have any missing values or duplicates.  
+<p align="center">
+  <img width="80%" alt="Light" src="https://github.com/user-attachments/assets/b0992570-5555-44dc-b435-c59f2e3f6281">
+</p>
+
+You can download the data disctionary prepared using this [link.](https://github.com/b-nirav/Video-Rental-Analysis-Using-SQL-and-Tableau/blob/main/Data%20Dictionary.pdf)
+
 
 ## Key Questions and Objectives
 There are a few key questions that we needed to find answer. Here is the list.
