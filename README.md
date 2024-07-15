@@ -1,6 +1,7 @@
 # Video Rental Analysis 
 **Purpose and Context:** Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service to stay competitive. This project is aimed at answering questions asked by management board that they to device their company strategy.
 
+I created visualizations necessary for communicating the results in Tableau Public
 ### Project Goals
 The primary objective of the project was fullfilled by accomplishing the following goals:
 - Identify movies that contributed the most/least to revenue gain
@@ -95,7 +96,7 @@ I discovered the following facts:
 **6. Sales Between Geographic Regions**
 
 <p align = "center">
-  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/38a1615e-767e-450c-a182-8b117cffc96f">
+  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/38a1615e-767e-450c-a182-8b117cffc96f">
 </p>
 
 Sales figures vary considerably across countries. Following is the summary:
@@ -104,35 +105,29 @@ Sales figures vary considerably across countries. Following is the summary:
 - India and China had the highest sales figures with 1422 and 1297 sales respectively.
 - American Samoa and Lithuania had the lowest sales with 15 and 22 sales respectively.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="231" alt="image" src="https://github.com/user-attachments/assets/e0934467-bf6a-410d-8a72-f4ccfa963b57">
-
-
-
-## Results
-To communicate the results of the analysis effectively I created a presentation for the board as well as I have put my visualization on Tableau Public which you can check out from this link.[Link to Storyboard](https://public.tableau.com/app/profile/nirav.bariya/viz/shared/3ZS4KMBPK)
-
-Here are a few snapshots from the analysis answering key questions defined above.
-<p align="center">
-  <img width="45%" alt="Light" src="https://github.com/b-N-I-R-A-V/Video-Rental-Analysis-Using-SQL-and-Tableau/assets/153047871/ce064acc-b6f3-44bc-b256-a2ccab259ff9">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Video-Rental-Analysis-Using-SQL-and-Tableau/assets/153047871/fbf669e0-bdb1-4eec-b805-983eef4410c1">
+**7. Which Categories are popular?**
+<p align = "center">
+  <img width="1498" alt="image" src="https://github.com/user-attachments/assets/0081fc0f-f686-44d1-824e-a2def5f1fcb8">
 </p>
 
-* Sales numbers differ significantly between countries. We found that the majority of sales occurred in India (1422) and China (1297). In contrast, American Samoa and Lithuania had the fewest sales, with 15 and 22, respectively.
-* We identified top 10 countries by customer base by aggregating data in SQL and creating a tree map in Tableau. We found that India and China had the highest customer base for Rockbuster.
+Here are the observations that I made:
+- The most popular category was Sports with a total of $4,892 of revenue.
+- This was followed by Sci-Fi and Animation categories with $4,336 and $4,245 total revenue.
+- The least popular category was Thriller with only $48 of revenue.
+- Sports, comedy and new category generated $5 per movie.
+- Other categories generated $4 per movie.
 
-For a comprehensive understanding of the project please read this presentation file. [Presentation File](https://github.com/b-N-I-R-A-V/Video-Rental-Analysis-Using-SQL-and-Tableau/blob/main/Rockbuster%20Stealth%20Final%20Presentation.pdf)
+## Conclusion and Recommendations
+
+Following are the recommendations based on our findings:
+- Reward loyal customers by offering them discounts and special access.
+- India, China, and United States have generated highest revenue. These countries along with those in top 10 should be focused more by adjusting renting price according to. Value of the currency like NETFLIX, PRIME and DISNEY are doing.
+- Movies that have generated highest revenue such as Telegraph Voyage, Zorro Ark, Wife Turn, Innocent Usual, and Hustler Party should be featured in advertisements on different platforms such as social media and internet.
+- To increase revenue increased number of license of movies in the categories Sports, Sci-fi, Comedy, Animation and New should be purchased.
+
+### Challenges
+The main challenge in this project was understanding the logic behind one of the questions posed by management, which sought to find the top 5 customers from the top 10 cities within the top 10 countries by customer base. The issue was that within the top 10 countries, there were multiple cities with the same number of customers. This was leaving out customers who were producing more revenue but were not necessarily in the top 10 cities. This challenge was overcome by identifying high-value customers across the globe and creating a separate list of them.
+
+To see visualizations created for communicating important insights checkout [Link to Storyboard](https://public.tableau.com/app/profile/nirav.bariya/viz/shared/3ZS4KMBPK). 
+I hope you found something useful. If you have any questions or suggestions for me, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](mailto:nkb.bariya@gmail.com) me. Thank you for your time. Have a great rest of day! 
+
